@@ -1,9 +1,7 @@
 ## Liebe Studierende
 
 Hier werden die Merkblätter für den Vorkurs diesen September in NU 4.05 hochgeladen und aktualisiert.
-### Merkblatt
-
-Hier sollte das Merkblatt stehen als relativer link [a link](https://github.com/JonathanVorkurs/MathematikVorkurs2019/blob/master/MerkblattMathematikVorkurs2019.pdf)
+### [Merkblatt](https://github.com/JonathanVorkurs/MathematikVorkurs2019/blob/master/MerkblattMathematikVorkurs2019.pdf)
 
 ```markdown
 Kontakt: jonathan.busse(at)stud.uni-due.de
