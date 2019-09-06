@@ -6,6 +6,6 @@ Hier werden die Merkblätter für den Vorkurs diesen September in NU 4.05 hochge
 Hier sollte das Merkblatt stehen
 
 ```markdown
-Wendet euch jederzeit an jonathan.busse(at)stud.uni-due.de
+Kontakt: jonathan.busse(at)stud.uni-due.de
 ```
 Viel Erfolg in der Vorlesung :)
