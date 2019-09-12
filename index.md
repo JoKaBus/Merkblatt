@@ -5,3 +5,4 @@ viel Freude mit dem [Merkblatt](https://github.com/JonathanVorkurs/MathematikVor
 ```markdown
 Kontakt: jonathan.busse(at)stud.uni-due.de
 ```
+Wer Lust hat in den Stoff der letzten Woche zu schauen, hier gibt es eine Sneak [Preview](https://github.com/JonathanVorkurs/Merkblatt/blob/master/Sneak.pdf).
