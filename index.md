@@ -6,13 +6,10 @@ viel Freude mit dem [Merkblatt](https://github.com/JonathanVorkurs/MathematikVor
 Kontakt: jonathan.busse(at)stud.uni-due.de
 ```
 Unsere weitere Zeitplanung:
-- [Dienstag 17.7] Eventuell Gesundheitstag?
-[Montag 16.79] Differenzialrechnung
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [ ] (Montag der 16.79) Differenzialrechnung
+- [ ] (Dienstag der 17.7) Eventuell Gesundheitstag?
+- [ ] (ab Mitwoch dem 18.9) Integralrechnung
+- [ ] (ab Freitag dem 20.7) Minivorlesung zur Gruppentheorie aus der linearen Algebra
+- [ ] (Freitag, der 27.7) Wie wäre es mit einem Brunch zum Abschluss?
 
-
-Dienstag 17.7: Eventuell Gesundheitstag?
-Mitwoch 18.9: Integralrechnung
-ab Freitag 20.7: Minivorlesung zur Gruppentheorie aus der linearen Algebra
-Freitag 27.7: wie wäre es mit einem Brunch? Bin gespannt auf eure Rückmeldungen.
+Bin gespannt auf euer Anregungen.
