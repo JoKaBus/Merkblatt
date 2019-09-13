@@ -6,7 +6,7 @@ viel Freude mit dem [Merkblatt](https://github.com/JonathanVorkurs/MathematikVor
 Kontakt: jonathan.busse(at)stud.uni-due.de
 ```
 Unsere weitere Zeitplanung:
-- [x] Finish my changes
+- [Dienstag] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
