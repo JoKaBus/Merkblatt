@@ -12,4 +12,4 @@ Unsere Zeitplanung:
 - [ ] (ab Freitag, dem 20.7) Minivorlesung zur Gruppentheorie
 - [ ] (Freitag, der 27.7) Wie wäre es mit einem Brunch zum Abschluss?
 
-Bin gespannt auf eure Anregungen.
+bin gespannt auf eure Anregungen.
