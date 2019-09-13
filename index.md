@@ -6,6 +6,10 @@ viel Freude mit dem [Merkblatt](https://github.com/JonathanVorkurs/MathematikVor
 Kontakt: jonathan.busse(at)stud.uni-due.de
 ```
 Unsere weitere Zeitplanung:
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 Montag 16.7: Differenzialrechnung
 Dienstag 17.7: Eventuell Gesundheitstag?
 Mitwoch 18.9: Integralrechnung
