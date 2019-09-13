@@ -5,4 +5,9 @@ viel Freude mit dem [Merkblatt](https://github.com/JonathanVorkurs/MathematikVor
 ```markdown
 Kontakt: jonathan.busse(at)stud.uni-due.de
 ```
-Wer Lust hat in den Stoff der letzten Woche zu schauen, hier gibt es eine Sneak [Preview](https://github.com/JonathanVorkurs/Merkblatt/blob/master/Sneak.pdf).
+Unsere weitere Zeitplanung:
+Montag 16.7: Differenzialrechnung
+Dienstag 17.7: Eventuell Gesundheitstag?
+Mitwoch 18.9: Integralrechnung
+ab Freitag 20.7: Minivorlesung zur Gruppentheorie aus der linearen Algebra
+Freitag 27.7: wie wäre es mit einem Brunch? Bin gespannt auf eure Rückmeldungen.
