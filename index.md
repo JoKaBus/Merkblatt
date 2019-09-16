@@ -6,9 +6,9 @@ viel Freude mit dem [Merkblatt](https://github.com/JonathanVorkurs/MathematikVor
 Kontakt: jonathan.busse(at)stud.uni-due.de
 ```
 Unsere Zeitplanung:
-- [ ] (Montag, der 16.9) Differenzialrechnung
-- [ ] (Dienstag, der 17.9) Eventuell Gesundheitstag?
-- [ ] (ab Mitwoch, dem 18.9) Integralrechnung
+- [x] (Montag, der 16.9) Differenzialrechnung
+- [ ] (Dienstag, der 17.9) keine Übung
+- [ ] (Mitwoch, der 18.9) Integralrechnung
 - [ ] (ab Freitag, dem 20.9) Minivorlesung zur Gruppentheorie
 - [ ] (Freitag, der 27.9) Wie wäre es mit einem Brunch zum Abschluss?
 
