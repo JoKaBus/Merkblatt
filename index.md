@@ -9,7 +9,7 @@ Unsere Zeitplanung:
 - [x] (Montag, der 16.9) Differenzialrechnung
 - [x] (Dienstag, der 17.9) keine Übung
 - [x] (Mitwoch, der 18.9) Integralrechnung
-- [x] (Donnerstag, der 19.09) partielle Integration, Integration durch Subst.
+- [x] (Donnerstag, der 19.09) part. Integration, Integration durch Subst.
 - [ ] (Freitag, der 20.09) Vertretung von Thorben, Integralaufgaben
 - [ ] (ab Montag, dem 23.9) Minivorlesung zur Gruppentheorie
 - [ ] (Freitag, der 27.9) Wie wäre es mit einem Brunch zum Abschluss?
