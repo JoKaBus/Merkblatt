@@ -12,6 +12,6 @@ Unsere Zeitplanung:
 - [x] (Donnerstag, der 19.09) part. Integration, Integration durch Subst.
 - [x] (Freitag, der 20.09) Vertretung von Thorben, Integralaufgaben
 - [x] (ab Montag, dem 23.9) Minivorlesung zur Gruppentheorie
-- [ ] (Freitag, der 27.9) Einladung zum [Abschlussbrunch](https://docs.google.com/document/d/1-QTVqREvEDzfTiv3kafdl2W_9Vvn4XiDKiyrrpy7PJQ/edit)
+- [ ] (Freitag, der 27.9) Einladung zum [Abschlussbrunch](https://docs.google.com/document/d/1-QTVqREvEDzfTiv3kafdl2W_9Vvn4XiDKiyrrpy7PJQ/edit?usp=sharing)
 
 tragt euch gern bis Mittwoch Abend ein, dann wissen wir was da ist und wer kommt :)
