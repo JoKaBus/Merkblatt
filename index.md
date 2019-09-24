@@ -14,4 +14,4 @@ Unsere Zeitplanung:
 - [x] (ab Montag, dem 23.9) Minivorlesung zur Gruppentheorie
 - [ ] (Freitag, der 27.9) Einladung zum [Abschlussbrunch](https://docs.google.com/document/d/1-QTVqREvEDzfTiv3kafdl2W_9Vvn4XiDKiyrrpy7PJQ/edit)
 
-tragt euch bis Morgen Abend ein, dann wissen wir was da ist und wer kommt.
+tragt euch gern bis Mittwoch Abend ein, dann wissen wir was da ist und wer kommt :)
