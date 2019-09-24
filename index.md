@@ -11,7 +11,7 @@ Unsere Zeitplanung:
 - [x] (Mitwoch, der 18.9) Integralrechnung
 - [x] (Donnerstag, der 19.09) part. Integration, Integration durch Subst.
 - [x] (Freitag, der 20.09) Vertretung von Thorben, Integralaufgaben
-- [ ] (ab Montag, dem 23.9) Minivorlesung zur Gruppentheorie
-- [ ] (Freitag, der 27.9) Wie wäre es mit einem Brunch zum Abschluss?
+- [x] (ab Montag, dem 23.9) Minivorlesung zur Gruppentheorie
+- [ ] (Freitag, der 27.9) Einladung zum [Abschlussbrunch](https://docs.google.com/document/d/1-QTVqREvEDzfTiv3kafdl2W_9Vvn4XiDKiyrrpy7PJQ/edit).
 
 bin gespannt auf eure Anregungen.
